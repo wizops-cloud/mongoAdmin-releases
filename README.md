@@ -27,7 +27,7 @@ A native desktop client built with Rust: query, visualize and manage your databa
 | Feature | Plan |
 |---|:---:|
 | Aggregation pipeline builder with stage preview and real-time results | Free |
-| SSH tunneling, Kubernetes discovery | Free |
+| SSH tunneling, Kubernetes discovery (kubeconfig scan, MongoDB pods) | Pro |
 | Visual drag-and-drop query builder | Pro |
 | SQL to MongoDB translation (find / aggregate) | Pro |
 | Performance monitoring: slow queries, index usage, live operations | Pro |
